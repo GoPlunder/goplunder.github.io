@@ -9,7 +9,8 @@ name: Go Plunder
 description: FEMALE Computer Science Student
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar:
+avatar:https://github.com/GoPlunder/goplunder.github.io/blob/master/images/jekyll-logo.png
+
 
 #
 # Flags below are optional
