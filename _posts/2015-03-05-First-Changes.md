@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vegan Lifestyle?
+title: First changes?
 ---
 
 Hi!
